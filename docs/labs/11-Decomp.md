@@ -130,6 +130,7 @@ make sure to ```add``` the ball to the screen.
 Run the program and make sure that you get a ball on the screen.
 
 ### Example Code,
+
 ```java
     private static final int BALL_SIZE = 50;
     private GOval ball;
